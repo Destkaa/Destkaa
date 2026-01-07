@@ -1,6 +1,6 @@
 # 👤 Tentang Ku sang Destkaa
 
-Halo, saya **Kaka Viangi** — seorang decender digital yang telah menapaki banyak jalan pembelajaran, baik dari dunia akademik maupun dunia kreator. Saya tidak akan memberi tahu banyak tentang identitas asli saya, cukup tahu bahwa saya seseorang yang **berproses dalam diam dan membangun dalam ketenangan**.
+Halo, saya **Kaka Viangi** — seorang pelajar digital yang telah menapaki banyak jalan pembelajaran, baik dari dunia akademik maupun dunia kreator. Saya tidak akan memberi tahu banyak tentang identitas asli saya, cukup tahu bahwa saya seseorang yang **berproses dalam diam dan membangun dalam ketenangan**.
 
 > Umur: ###  
 > Status: ???
