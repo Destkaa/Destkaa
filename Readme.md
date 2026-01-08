@@ -14,7 +14,7 @@ Bagi saya, setiap warna memiliki maknanya tersendiri, Salam Kenal 😊 -Kaka/Des
 | **Lokasi** | Bandung, Indonesia | ??? |
 | **Umur** | ??? |
 | **Status** | Rahasia|
-| **Party** | **NLFTs**|
+| **Party** | **NFLTs**|
 
 ---
 
