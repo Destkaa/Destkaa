@@ -1,6 +1,6 @@
 # 🎨 INTRODUCTION
 ![alt text](one-piece-z-ambition.gif)
-> "Berproses dalam diam, membangun dalam ketenangan."
+> "**Berproses dalam diam, membangun dalam ketenangan**."
 
 Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin.
 
@@ -9,10 +9,11 @@ Bagi saya, setiap warna memiliki maknanya tersendiri, Salam Kenal 😊 -Kaka/Des
 ---
 
 ### 🌑 Personal Brief
-| Status | Location | Institution |
+| Information | Anime Lovers | Cat Lovers |
 | :--- | :--- | :--- |
-| **Rahasia** | Bandung, Indonesia | SMK Assalaam Bandung |
-| **Umur** | ??? | Frontend Engineering |
+| **Lokasi** | Bandung, Indonesia | ??? |
+| **Umur** | ??? |
+| **Status** | Rahasia|
 
 ---
 
