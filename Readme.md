@@ -1,22 +1,22 @@
-# 🎨 The Interface Architect: Destkaa
+# 🎨 INTRODUCTION
 
-> "Membangun jembatan visual antara kode dan pengalaman pengguna."
+> "Berproses dalam diam, membangun dalam ketenangan."
 
-Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Engineer** yang berbasis di **Bandung**. Fokus utama saya adalah mengubah desain yang kompleks menjadi antarmuka yang interaktif, responsif, dan berperforma tinggi.
+Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin.
 
-Bagi saya, setiap piksel punya cerita, dan setiap baris kode CSS adalah nyawa dari sebuah produk digital.
+Bagi saya, setiap warna memiliki maknanya tersendiri, Salam Kenal 😊 -Kaka/Destkaa!.
 
 ---
 
-### 🌑 Frontend Brief
-| Status | Location | Core Focus |
+### 🌑 Personal Brief
+| Status | Location | Institution |
 | :--- | :--- | :--- |
-| **Pixel Perfectionist** | 📍 Bandung, Indonesia | UI/UX Engineering & Modern Frontend |
-| **Current Path** | Digital Academic | Interactive Design & Web Performance |
+| **Rahasia** | Bandung, Indonesia | SMK Assalaam Bandung |
+| **Umur** | ??? | Frontend Engineering |
 
 ---
 
-### 💻 Frontend Arsenal
+### 💻 Technical Arsenal
 
 #### **Core Technologies**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +24,7 @@ Bagi saya, setiap piksel punya cerita, dan setiap baris kode CSS adalah nyawa da
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-CB3837?style=for-the-badge&logo=php&logoColor=white)
 
 #### **Styling & Frameworks**
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,17 +38,15 @@ Bagi saya, setiap piksel punya cerita, dan setiap baris kode CSS adalah nyawa da
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-#### **Creative & Assets**
+#### **Creative & Management**
 ![Adobe Premier Pro](https://img.shields.io/badge/adobe%20premierepro-%2331A8FF.svg?style=for-the-badge&logo=adobe%20premierepro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### 🛠️ Frontend Mindset
-* **Responsive First:** Memastikan tampilan web sempurna di semua ukuran layar, dari ponsel hingga monitor ultra-wide.
-* **Modern Styling:** Mahir dalam implementasi Utility-First CSS (Tailwind) untuk pembangunan UI yang cepat dan konsisten.
-* **Performance Optimization:** Fokus pada pengiriman aset yang ringan dan waktu muat (loading time) yang instan.
-* **Component-Based:** Membangun antarmuka yang modular agar mudah dikelola dan dikembangkan lebih lanjut.
-
+### 🔍 Fun Facts
+* **Embracing the Void:** Saya adalah penggemar berat **Dark Mode/Tema Gelap**. Bagian dari kenyamanan visual dan estetika minimalis saya.
+* **Beyond the Code:** Saat tidak sedang menyusun baris kode, saya biasanya menghabiskan waktu di **dunia game** untuk mencari inspirasi dan strategi baru.
+* **Quiet Productivity:** Saya lebih suka bekerja di lingkungan yang tenang di mana fokus adalah prioritas utama.
 ---
