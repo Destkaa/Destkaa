@@ -11,9 +11,9 @@ Bagi saya, setiap warna memiliki maknanya tersendiri, Salam Kenal 😊 -Kaka/Des
 ### 🌑 Personal Brief
 | Information | Anime Lovers | Cat Lovers |
 | :--- | :--- | :--- |
-| **Lokasi** | Bandung, Indonesia | ??? |
-| **Umur** | ??? |
-| **Status** | Rahasia|
+| **Lokasi** | **Bandung, Indonesia** | **???** |
+| **Umur** | **???** |
+| **Status** | **Rahasia**|
 | **Party** | **NFLTs**|
 
 ---
