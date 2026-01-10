@@ -1,5 +1,5 @@
 # 🎨 INTRODUCTION
-![alt text](nami-one-piece.gif)
+![alt text](one-piece-z-ambition.gif)
 > "**Berproses dalam diam, membangun dalam ketenangan**."
 
 Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin.
