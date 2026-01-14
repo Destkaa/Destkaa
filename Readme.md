@@ -1,7 +1,6 @@
 
 # 🎨 INTRODUCTION
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <br>
   <img src="one-piece-z-ambition.gif" width="100%" style="border-radius: 15px;" />
 </p>
