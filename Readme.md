@@ -5,10 +5,14 @@
   <img src="one-piece-z-ambition.gif" width="100%" style="border-radius: 15px;" />
 </p>
 
+>
 
 > "**Berproses dalam diam, membangun dalam ketenangan.**"
 
 Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!**
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Destkaa&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
 
 ---
 
@@ -35,52 +39,37 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 
 ### 💻 Technical Arsenal
 
-#### **Core Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-#### **Styling & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
-#### **Development Workflow**
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| **Workflow** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Destkaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Destkaa Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destkaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+### 🎮 Gaming Universe
+*Saat tidak sedang menyusun baris kode, saya biasanya menjelajahi dunia Teyvat, menaiki Astral Express, atau beraksi di New Eridu.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Genshin_Impact-3E4550?style=for-the-badge&logo=genshinimpact&logoColor=white" />
+  <img src="https://img.shields.io/badge/Honkai:_Star_Rail-0080FF?style=for-the-badge&logo=honkaistarrail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zenless_Zone_Zero-FFD200?style=for-the-badge&logo=target&logoColor=black" />
 </p>
 
 ---
 
 ### 🔍 Fun Facts
-* 🌑 **Embracing the Void:** Saya adalah penggemar berat **Dark Mode**. Bagi saya, hitam bukan sekadar warna, tapi kenyamanan visual.
-* 🎮 **Beyond the Code:** Saat tidak sedang *coding*, saya biasanya menjelajahi dunia game untuk mencari strategi dan inspirasi baru.
-* 🤫 **Quiet Productivity:** Fokus adalah prioritas. Saya bekerja paling maksimal di lingkungan yang tenang.
-* ⚡ **Fun Fact:** Saya bisa menghabiskan berjam-jam hanya untuk menyesuaikan satu pixel agar terlihat sempurna.
+* 🌑 **Embracing the Void:** Penggemar berat **Dark Mode**. Hitam bukan sekadar warna, tapi gaya hidup.
+* 🖥️ **Pixel Perfect:** Bisa begadang cuma buat benerin margin 1px yang nggak pas di layar.
+* 🤫 **Quiet Productivity:** Saya paling produktif saat suasana tenang dan fokus terjaga.
+* ☕ **Code & Coffee:** Menulis kode, bermain game, dan mengulanginya lagi.
 
 ---
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/destkaaa_13">
+  <a href="https://instagram.com/destkaaa_13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:kakaviangi58@gmail.com">
