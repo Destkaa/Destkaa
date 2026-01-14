@@ -3,12 +3,11 @@
 
 # 🎨 INTRODUCTION
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <br>
   <img src="one-piece-z-ambition.gif" width="100%" style="border-radius: 15px;" />
 </p>
 
-> [!IMPORTANT]
+
 > "**Berproses dalam diam, membangun dalam ketenangan.**"
 
 Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!** 
