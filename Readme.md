@@ -93,12 +93,6 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
   <a href="https://instagram.com/destkaaa_13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:kakaviangi58@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/destkaa1310">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
