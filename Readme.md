@@ -90,7 +90,7 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/destkaaa_13" target="_blank">
+  <a href="https://instagram.com/destkaa_13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
