@@ -96,8 +96,5 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 </p>
 
 <p align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer" width="100%"/>
-  <br>
   <sub>Membangun masa depan, satu baris kode dalam satu waktu. 🚀</sub>
 </p>
