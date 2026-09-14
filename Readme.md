@@ -1,20 +1,14 @@
-
-
-
 # 🎨 INTRODUCTION
 <p align="center">
   <br>
   <img src="citlali-genshin.gif" width="100%" style="border-radius: 15px;" />
 </p>
 
-
 > "**Berproses dalam diam, membangun dalam ketenangan.**"
 
-Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!** 
-<p align="right">
+Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!** <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Destkaa&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
-
 
 ### 🌑 Personal Brief
 <table align="center" width="100%">
@@ -42,6 +36,7 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 **Core Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -49,6 +44,8 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 
 **Frameworks & Build Tools**
 <p align="left">
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -96,7 +93,7 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
   <a href="mailto:kakaviangi58@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/destkaa1310">
+  <a href="https://discordapp.com/users/destkaa1310" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
