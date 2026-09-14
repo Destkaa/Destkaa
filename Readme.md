@@ -6,7 +6,9 @@
 
 > "**Berproses dalam diam, membangun dalam ketenangan.**"
 
-Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!** <p align="right">
+Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!** 
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Destkaa&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
@@ -44,7 +46,7 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 
 **Frameworks & Build Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
