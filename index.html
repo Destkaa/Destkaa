@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kaka Viangi - Backend Developer</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Bootstrap CSS (Version 5.3.3) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    
     <style>
         * {
             margin: 0;
@@ -418,7 +420,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#home">Destkaa</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
@@ -574,7 +576,7 @@
                 <div class="col-lg-4 col-md-6 fade-in">
                     <div class="project-card">
                         <div class="project-header">
-                            <h3>PKL 2025 Project</h3>
+                            <h3>PKL Project</h3>
                         </div>
                         <div class="project-body">
                             <p class="project-description">
@@ -617,10 +619,10 @@
                     Interested in collaborating or have an exciting project in mind? Feel free to reach out. I'm always open to discussing new opportunities and innovative ideas.
                 </p>
                 <div class="contact-links">
-                    <a href="https://github.com/Destkaa" class="contact-link" target="_blank" title="GitHub">
+                    <a href="https://github.com/Destkaa" class="contact-link" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile">
                         <i class="bi bi-github"></i>
                     </a>
-                    <a href="https://www.instagram.com/destkaaa_13" class="contact-link" target="_blank" title="Instagram">
+                    <a href="https://www.instagram.com/destkaaa_13" class="contact-link" target="_blank" rel="noopener noreferrer" aria-label="Instagram Profile">
                         <i class="bi bi-instagram"></i>
                     </a>
                 </div>
@@ -634,7 +636,8 @@
         </div>
     </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Bootstrap JS (Version 5.3.3) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         const observerOptions = {
             threshold: 0.1,
@@ -653,6 +656,7 @@
             const fadeElements = document.querySelectorAll('.fade-in');
             fadeElements.forEach(el => observer.observe(el));
 
+            // Smooth Scrolling
             document.querySelectorAll('a[href^="#"]').forEach(anchor => {
                 anchor.addEventListener('click', function (e) {
                     e.preventDefault();
@@ -666,6 +670,19 @@
                 });
             });
 
+            // Auto-close mobile navbar on link click
+            const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+            const menuToggle = document.getElementById('navbarNav');
+            const bsCollapse = new bootstrap.Collapse(menuToggle, { toggle: false });
+            navLinks.forEach((link) => {
+                link.addEventListener('click', () => {
+                    if (menuToggle.classList.contains('show')) {
+                        bsCollapse.toggle();
+                    }
+                });
+            });
+
+            // Navbar shadow toggle on scroll
             const navbar = document.querySelector('.navbar');
             window.addEventListener('scroll', () => {
                 if (window.scrollY > 50) {
@@ -676,6 +693,5 @@
             });
         });
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>
 </html>
