@@ -1,7 +1,7 @@
 # 🎨 INTRODUCTION
 <p align="center">
   <br>
-  <img src="one-piece-z-ambition.gif" width="100%" style="border-radius: 15px;" />
+  <div class="tenor-gif-embed" data-postid="3540570500535246294" data-share-method="host" data-aspect-ratio="1.44767" data-width="100%"><a href="https://tenor.com/view/citlali-genshin-genshin-impact-citlali-genshin-impact-citlali-genshin-gif-3540570500535246294">Citlali Genshin GIF</a>from <a href="https://tenor.com/search/citlali-gifs">Citlali GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 > "**Berproses dalam diam, membangun dalam ketenangan.**"
