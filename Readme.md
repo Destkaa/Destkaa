@@ -1,12 +1,13 @@
 # 🎨 INTRODUCTION
 <p align="center">
   <br>
-  <img src="citlali-genshin.gif" width="100%" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/Destkaa/Destkaa/main/citlali-genshin.gif" width="100%" style="border-radius: 15px;" alt="Citlali Animation" />
 </p>
 
 > "**Berproses dalam diam, membangun dalam ketenangan.**"
 
-Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!** <p align="right">
+Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelajar dari **SMK Assalaam Bandung**. Saya mendedikasikan waktu saya untuk bersenang-senang menikmati waktu semaksimal mungkin. Bagi saya, setiap warna memiliki maknanya tersendiri. Salam Kenal 😊 — **Kaka/Destkaa!** 
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Destkaa&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
@@ -35,33 +36,33 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 
 **Core Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 **Frameworks & Build Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 **Design & Creative**
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 **Development Workflow**
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
@@ -70,9 +71,9 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 *Saat tidak sedang menyusun baris kode, saya biasanya menjelajahi dunia Teyvat, menaiki Astral Express, atau beraksi di New Eridu.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Genshin_Impact-3E4550?style=for-the-badge&logo=genshinimpact&logoColor=white" />
-  <img src="https://img.shields.io/badge/Honkai:_Star_Rail-0080FF?style=for-the-badge&logo=honkaistarrail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zenless_Zone_Zero-FFD200?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Genshin_Impact-3E4550?style=for-the-badge&logo=genshinimpact&logoColor=white" alt="Genshin Impact" />
+  <img src="https://img.shields.io/badge/Honkai:_Star_Rail-0080FF?style=for-the-badge&logo=honkaistarrail&logoColor=white" alt="Honkai Star Rail" />
+  <img src="https://img.shields.io/badge/Zenless_Zone_Zero-FFD200?style=for-the-badge&logo=target&logoColor=black" alt="Zenless Zone Zero" />
 </p>
 
 ---
@@ -87,20 +88,20 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/destkaaa_13" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/destkaaa_13" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:kakaviangi58@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://discordapp.com/users/destkaa1310" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discordapp.com/users/destkaa1310" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 <p align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer" width="100%" alt="Footer Decor" />
   <br>
   <sub>Membangun masa depan, satu baris kode dalam satu waktu. 🚀</sub>
 </p>
