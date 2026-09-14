@@ -1,7 +1,7 @@
 # 🎨 INTRODUCTION
 <p align="center">
   <br>
-  <img width="373" height="257" alt="citlali-genshin" src="https://github.com/user-attachments/assets/b3b81753-36dc-4e6d-9c72-28f8661ac905" />
+  <img src="https://github.com/user-attachments/assets/b3b81753-36dc-4e6d-9c72-28f8661ac905" width="373" height="257" alt="Citlali Genshin" style="border-radius: 15px;" />
 </p>
 
 > "**Berproses dalam diam, membangun dalam ketenangan.**"
@@ -46,7 +46,7 @@ Halo, saya **Kaka Viangi**. Saya adalah seorang **Frontend Developer** dan pelaj
 
 **Frameworks & Build Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
