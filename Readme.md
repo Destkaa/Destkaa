@@ -1,4 +1,4 @@
-# 🎨 KAKA VIANGI
+# KAKA VIANGI
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Destkaa/Destkaa/main/citlali-genshin.gif" width="100%" style="border-radius: 8px;" alt="Header Animation" />
