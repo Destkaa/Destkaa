@@ -11,6 +11,7 @@
 ---
 
 ### About Me
+
 Frontend Developer dan pelajar di **SMK Assalaam Bandung**. Fokus pada pengembangan antarmuka web dan aplikasi mobile yang rapi, responsif, serta presisi.
 
 - **Lokasi:** Bandung, Indonesia
@@ -22,6 +23,7 @@ Frontend Developer dan pelajar di **SMK Assalaam Bandung**. Fokus pada pengemban
 ### Technical Arsenal
 
 **Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Dart-181717?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
@@ -31,6 +33,7 @@ Frontend Developer dan pelajar di **SMK Assalaam Bandung**. Fokus pada pengemban
 </p>
 
 **Frameworks & Build Tools**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Nuxt.js-181717?style=flat-square&logo=nuxt.js&logoColor=00DC82" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Flutter-181717?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
@@ -40,6 +43,7 @@ Frontend Developer dan pelajar di **SMK Assalaam Bandung**. Fokus pada pengemban
 </p>
 
 **Design & Workflow**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-181717?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva" />
@@ -50,8 +54,35 @@ Frontend Developer dan pelajar di **SMK Assalaam Bandung**. Fokus pada pengemban
 
 ---
 
+### GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Destkaa&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destkaa&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Destkaa&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+    width="100%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
 ### Gaming & Interests
+
 Di luar aktivitas *coding*, menyukai beberapa judul game dari HoYoverse:
+
 - Genshin Impact
 - Honkai: Star Rail
 - Zenless Zone Zero
@@ -76,6 +107,7 @@ Di luar aktivitas *coding*, menyukai beberapa judul game dari HoYoverse:
 </p>
 
 ---
+
 <p align="center">
   <sub>Kaka Viangi — Frontend Developer</sub>
 </p>
